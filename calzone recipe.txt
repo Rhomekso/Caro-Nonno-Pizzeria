@@ -1,6 +1,6 @@
 calzone pizza ingredients:
 
-1 basisrecept pizzadeeg (of een bodem mix)
+1 basisrecept pizzadeeg  (recept is in pizza recipe.txt) 
 200 ml pizzasaus
 4 plakken salami
 1 paprika
