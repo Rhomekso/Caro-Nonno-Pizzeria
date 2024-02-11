@@ -1,7 +1,7 @@
 calzone pizza ingredients:
 
 1 basisrecept pizzadeeg  (recept is in pizza recipe.txt) 
-200 ml pizzasaus
+200 ml pizzasaus (pot of vers)
 4 plakken salami
 1 paprika
 1 bol mozzarella
@@ -24,3 +24,7 @@ Vouw ze iets om naar binnen (zie video).
 Meng een klein beetje olie met een beetje pizzasaus en bestrijk de bovenzijde hiermee. 
 Het handige aan een pizza calzone is dat je er makkelijk 2 naast elkaar op de bakplaat kunt leggen. 
 Bak de pizza’s in ca 15 minuten mooi bruin en krokant.
+
+
+tips/kritieke punten:
+gebruik pizza saus van pizza recipe
